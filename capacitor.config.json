@@ -1,0 +1,6 @@
+{
+  "appId": "com.samek.quote",
+  "appName": "عرض سعر سميك",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
